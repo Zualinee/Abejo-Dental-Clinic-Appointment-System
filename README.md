@@ -17,3 +17,6 @@ admin
 Database
 create new  database name "dental_clinic"
 import dental_clinic(1).sql
+
+Github Repository
+https://github.com/Zualinee/Abejo-Dental-Clinic-Appointment-System.git
